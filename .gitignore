@@ -70,3 +70,6 @@ test/include/test/jemalloc_test_defs.h
 /test/unit/*.out
 
 /VERSION
+
+# editor backup
+*~

@@ -23,3 +23,6 @@
 !test/*.exp
 /VERSION
 /bin/jemalloc.sh
+#editor backup
+*~
+
